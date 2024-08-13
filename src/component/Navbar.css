@@ -1,0 +1,11 @@
+*{
+    
+}
+.navbar{
+    overflow: hidden;
+    width: 100vw;
+    height: 70px;
+    /* border: 2px solid black; */
+    background-color: rgb(34 34 59) ;
+    color: white;
+}

@@ -1,0 +1,17 @@
+.cards{
+    width: 65%;
+    height: 100%;
+    background-color: rgb(74 78 105);
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
+    gap: 20px;
+    /* border: 2px solid red; */
+    align-self: center;
+}
+@media (max-width:850px){
+    .cards{
+        width: 100%;
+    }
+}

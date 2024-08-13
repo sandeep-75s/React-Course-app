@@ -1,5 +1,16 @@
+*{
+  overflow-x: hidden;
+}
 .App {
   text-align: center;
+  width: 100vw;
+  /* max-width: 100%; */
+  min-height: 100vh;
+  max-height: 100%;
+  /* border: 2px solid black; */
+  display: flex;
+  flex-direction: column;
+  background-color: rgb(74 78 105);
 }
 
 .App-logo {
